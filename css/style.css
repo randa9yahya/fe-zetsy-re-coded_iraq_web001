@@ -18,3 +18,24 @@ body {
 }
 
 /* Write all remaining styles here */
+h1{
+font-size: 4rem;
+color: cadetblue;
+padding-bottom: 10px;
+border-bottom: 1px solid #ccc;
+}
+h1:hover{
+  color: rgb(100, 113, 114);
+}
+h2{
+  font-size: 2rem;
+color: cadetblue;
+}
+p{
+color: #555;
+    font-size: 1em;
+    margin: 0 0 20px 0;
+}
+.link{
+text-decoration: none;
+}
